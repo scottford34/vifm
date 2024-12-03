@@ -89,3 +89,4 @@ GNU General Public License, version 2 or later.
 [U]: http://cov.vifm.info/branches/master
 [SS]: https://scan.coverity.com/projects/699/badge.svg
 [S]: https://scan.coverity.com/projects/vifm-vifm
+# vifm
